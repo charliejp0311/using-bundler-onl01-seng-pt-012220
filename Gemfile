@@ -6,7 +6,7 @@ gem "octokit", "2.0"
 #gem "twiddle-wakka"
 
 
-gem "aweson_print", git: "https://github.com/awesome-print/aweson_print/"
+gem "aweson_print", git: "https://github.com/awesome-print/awesome_print.git"
 
 group :development do
   gem "pry"
