@@ -11,5 +11,3 @@ gem "awesome_print", :git => "https://github.com/awesome-print/awesome_print.git
 group :development do
   gem "pry"
 end
-
-
